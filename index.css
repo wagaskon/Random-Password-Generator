@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Bckground{  width: 400px;
+    background: #1F2937;
+    ;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 10px;
+}
+.text{
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+}
+span{
+    color: #4ADF86;
+}
+#prag{
+    margin: 0 0 10 0;
+    padding: 0 0 10 0 ;
+    font-size: 15px;
+}
+/* .KKK{
+    /* display: flex;
+    /* flex-direction: column; 
+    justify-content: initial;
+    
+    align-items: flex-start; 
+} */
+/* .Gn-pass{
+    /* display: flex;
+    justify-content: space-around;
+    align-items: center; 
+
+} */
+#len{
+    width: 80px;
+    margin: 10px 0;
+    padding: 7px 15px;
+    border-radius: 5px;
+   
+    
+
+
+}
+.btn{
+    background: #10B981;
+    padding: 7px 15px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin: 10px 0;
+}
+
+.RRR{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-around;
+    align-items: center;
+    border-top: 1px solid #2F3E53;
+}
+.Show-pssword{
+    width: 200px;
+    background: #273549;
+    color: #55F991;
+    margin: 10px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    
+    
+}
