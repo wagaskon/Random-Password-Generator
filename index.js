@@ -4,7 +4,7 @@ let x=document.querySelector("#first");
 let y=document.querySelector("#second");
 
 console.log(leng)
-function generate(){
+function generatepassword(){
     let leng=Number(document.querySelector("#len").value);
     if(leng===0 || leng>15){
         leng=15
